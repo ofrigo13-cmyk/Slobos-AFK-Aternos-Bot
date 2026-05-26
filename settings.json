@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thefunhouseil.aternos.me:15752",
+    "ip": "thefunhouseil.aternos.me",
     "port": 15752,
     "version": "",
     "try-creative": false
